@@ -1,0 +1,4 @@
+2020-04-10 21:35:28   INFO [pages.TestIphone7.Test7Page] : Hotline was opened
+2020-04-10 21:35:29   INFO [libs.ActionsWithOurElements] : iPhone 7 was inputted into input 
+2020-04-10 21:35:29   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-04-10 21:35:31   INFO [libs.ActionsWithOurElements] : Element was clicked
