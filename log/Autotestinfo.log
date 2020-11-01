@@ -1,4 +1,110 @@
-2020-04-10 21:35:28   INFO [pages.TestIphone7.Test7Page] : Hotline was opened
+2020-04-10 21:35:28   INFO [pages.GoggleTranslate.GoogleTranslatePage] : Hotline was opened
 2020-04-10 21:35:29   INFO [libs.ActionsWithOurElements] : iPhone 7 was inputted into input 
 2020-04-10 21:35:29   INFO [libs.ActionsWithOurElements] : Element was clicked
 2020-04-10 21:35:31   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 20:13:54   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:29:03   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:38:11   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:38:11   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:43:21   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:43:21   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:46:31   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:46:31   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:48:20   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:48:20   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:53:21   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:53:22   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:56:00   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:56:51   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:56:51   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 20:57:57   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 20:57:57   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:01:54   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:01:54   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:01:55  ERROR [libs.ActionsWithOurElements] : Can not click on element
+2020-01-11 21:03:11   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:03:11   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:03:11   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 21:06:19   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:06:19   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:06:20   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 21:11:28   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:11:28   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:11:28   INFO [pages.HomePage] : 2 second timer for download started
+2020-01-11 21:18:08   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:19:39   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:19:39   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:20:06   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:20:07   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:20:07  ERROR [libs.ActionsWithOurElements] : Can not click on element
+2020-01-11 21:24:49   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:24:49   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:24:49   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 21:26:07   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:26:55   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:30:27   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:30:28   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:30:52   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:30:53   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:31:18   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:31:18   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:31:18   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 21:38:18   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:38:18   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 21:51:45   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 21:51:46  ERROR [libs.ActionsWithOurElements] : Can not click on element
+2020-01-11 21:58:12   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:00:43   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:00:45   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:00:55  ERROR [libs.ActionsWithOurElements] : Can not work with element
+2020-01-11 22:04:19   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:04:20   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:04:20   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-01-11 22:04:20  ERROR [libs.ActionsWithOurElements] : Can not click on element
+2020-01-11 22:06:50   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:06:51   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:06:51   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-01-11 22:06:53  ERROR [libs.ActionsWithOurElements] : Can not click on element
+2020-01-11 22:09:52   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:09:53   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:09:53   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-01-11 22:09:53   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:27:19   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:27:20   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:27:20   INFO [libs.ActionsWithOurElements] : Мир was inputted into input 
+2020-01-11 22:27:20   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:27:21   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:30:05   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:30:05   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:30:05   INFO [libs.ActionsWithOurElements] : Мир was inputted into input 
+2020-01-11 22:30:06   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:30:06   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:32:40   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:32:40   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:32:44   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:32:45   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:32:45   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-01-11 22:32:45   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:32:48   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:32:48   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:32:51   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:33:03   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:33:04   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:33:04   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:33:17   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:33:17   INFO [libs.ActionsWithOurElements] : Привет was inputted into input 
+2020-01-11 22:33:18   INFO [libs.ActionsWithOurElements] : Мир was inputted into input 
+2020-01-11 22:33:18   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:33:18   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:33:42   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:33:43   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:33:43   INFO [libs.ActionsWithOurElements] : troianwork@gmail.com was inputted into input 
+2020-01-11 22:33:44   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:42:31   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:42:31   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:44:30   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:44:31   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:45:14   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:45:15   INFO [libs.ActionsWithOurElements] : Element was clicked
+2020-01-11 22:46:25   INFO [pages.GoggleTranslate.GoogleTranslatePage] : GT was opened
+2020-01-11 22:46:25   INFO [libs.ActionsWithOurElements] : Element was clicked

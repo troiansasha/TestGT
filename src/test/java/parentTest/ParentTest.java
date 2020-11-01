@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.HomePage;
-import pages.TestIphone7.Test7Page;
+import pages.GoggleTranslate.GoogleTranslatePage;
 
 
 import java.io.File;
@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 public class ParentTest {
     protected WebDriver webDriver;
     protected HomePage homePage;
-    protected Test7Page test7Page;
+    protected pages.GoggleTranslate.GoogleTranslatePage GoogleTranslatePage;
 
 
     //Precondition
@@ -29,16 +29,16 @@ public class ParentTest {
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        test7Page = new Test7Page(webDriver);
+        GoogleTranslatePage = new GoogleTranslatePage(webDriver);
         homePage = new HomePage(webDriver);
 
 
     }
-//    Exit Browser
-    @After
-    public void tearDown () {
-        webDriver.quit();
-    }
+////    Exit Browser
+//    @After
+//    public void tearDown () {
+//        webDriver.quit();
+//    }
 
 
 

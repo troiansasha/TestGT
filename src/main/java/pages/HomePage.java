@@ -13,8 +13,9 @@ public class HomePage extends ParentPage {
     }
 
 
-    public void timer3seconds (){
-            webDriver.manage().timeouts().setScriptTimeout(2,TimeUnit.SECONDS);
+    public void timer2seconds(){
+        webDriver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        logger.info("2 second timer for download started");
     }
 
 
